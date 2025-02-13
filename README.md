@@ -1,14 +1,10 @@
 # Hi there, I'm Phuoc Nguyen Gia 👋
 
-![Phuoc Nguyen Gia](https://princecoder000.vercel.app/profile-image.jpg)  
-
 ## 🚀 Senior Software Engineer | Full Stack Developer
 
 I'm a passionate Full-Stack Developer specializing in modern web technologies, dedicated to building scalable and high-performance applications. With expertise in **React, Next.js, Rust, PostgreSQL, and more**, I strive to create efficient, secure, and user-friendly solutions.
 
 ---
-
-![Tech Stack](https://princecoder000.vercel.app/tech-stack-image.jpg)
 
 ## 💡 About Me
 - 🎓 **Education**: Bachelor's in Software Engineering, University of Sci-Tech (4.0 GPA)
@@ -45,8 +41,6 @@ I'm a passionate Full-Stack Developer specializing in modern web technologies, d
 
 ---
 
-![Experience](https://princecoder000.vercel.app/experience-image.jpg)
-
 ## 🏆 Experience
 
 ### 🚀 Backend Developer | PIXELCRAFT
@@ -80,8 +74,6 @@ I'm a passionate Full-Stack Developer specializing in modern web technologies, d
   - Certified Front-End Web Developer (W3Schools)
 
 ---
-
-![Connect](https://princecoder000.vercel.app/connect-image.jpg)
 
 ## 📫 Let's Connect!
 💼 [LinkedIn](https://www.linkedin.com/in/gia-phuoc-nguyen-31995534a/)  
