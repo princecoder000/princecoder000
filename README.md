@@ -90,6 +90,6 @@ I'm a passionate Full-Stack Developer specializing in modern web technologies, d
 📧 **Email**: [princecoder000@gmail.com](mailto:princecoder000@gmail.com)  
 💬 **Discord**: `princecoder000`  
 📱 **Telegram**: [@princecoder](https://t.me/princecoder000)  
-📞 **Skype**: `live:princecoder000`
+📞 **Skype**: `live:.cid.208cca459e1b86a4`
 
 🚀 *Passionate about building efficient, scalable, and user-focused applications. Always open to collaboration!*
