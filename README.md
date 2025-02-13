@@ -1,10 +1,16 @@
 # Hi there, I'm Phuoc Nguyen Gia 👋
 
+![Phuoc Nguyen Gia](https://princecoder000.vercel.app/profile-image.jpg)  
+
 ## 🚀 Senior Software Engineer | Full Stack Developer
 
 I'm a passionate Full-Stack Developer specializing in modern web technologies, dedicated to building scalable and high-performance applications. With expertise in **React, Next.js, Rust, PostgreSQL, and more**, I strive to create efficient, secure, and user-friendly solutions.
 
-### 💡 About Me
+---
+
+![Tech Stack](https://princecoder000.vercel.app/tech-stack-image.jpg)
+
+## 💡 About Me
 - 🎓 **Education**: Bachelor's in Software Engineering, University of Sci-Tech (4.0 GPA)
 - 💼 **Current Role**: Backend Developer at PIXELCRAFT
 - 🏆 **Achievements**: 1st place in **HP Technology's Future of Work Academy (FOWA) 2023**
@@ -39,17 +45,19 @@ I'm a passionate Full-Stack Developer specializing in modern web technologies, d
 
 ---
 
+![Experience](https://princecoder000.vercel.app/experience-image.jpg)
+
 ## 🏆 Experience
 
 ### 🚀 Backend Developer | PIXELCRAFT
-📅 *Oct 2024 - Present*
+📅 *Jan 2022 - Jan 2025*
 - Optimized Rust backend performance, reducing memory usage by **40%**.
 - Built **real-time WebSocket servers** with Axum for efficient data streaming.
 - Integrated **PostgreSQL with Diesel ORM** for type-safe database interactions.
 - Implemented secure authentication with **JWT and RustCrypto**.
 
 ### 💻 Frontend Developer | Web Idea Solution LLP
-📅 *2022 - 2024*
+📅 *Jan 2020 - Nov 2021*
 - Migrated legacy systems to **modern React frameworks**, improving SEO & load time by **20%**.
 - Developed **responsive UI components** using Material UI.
 - Worked closely with backend teams to optimize API integrations.
@@ -73,9 +81,15 @@ I'm a passionate Full-Stack Developer specializing in modern web technologies, d
 
 ---
 
+![Connect](https://princecoder000.vercel.app/connect-image.jpg)
+
 ## 📫 Let's Connect!
 💼 [LinkedIn](https://www.linkedin.com/in/gia-phuoc-nguyen-31995534a/)  
 🌎 [Portfolio](https://princecoder000.vercel.app)  
-📍 Hanoi, Vietnam
+📍 Hanoi, Vietnam  
+📧 **Email**: [princecoder000@gmail.com](mailto:princecoder000@gmail.com)  
+💬 **Discord**: `princecoder000`  
+📱 **Telegram**: [@princecoder](https://t.me/princecoder000)  
+📞 **Skype**: `live:princecoder000`
 
 🚀 *Passionate about building efficient, scalable, and user-focused applications. Always open to collaboration!*
