@@ -11,7 +11,7 @@ I'm a passionate Full-Stack Developer specializing in modern web technologies, d
 - 🎓 **Education**: Bachelor's in Software Engineering, University of Sci-Tech (4.0 GPA)
 - 💼 **Current Role**: Backend Developer at PIXELCRAFT
 - 🏆 **Achievements**: 1st place in **HP Technology's Future of Work Academy (FOWA) 2023**
-- 🎨 **Previous Roles**: UX/UI Designer, Frontend Developer
+- 🎨 **Previous Roles**: Full Stack Developer, Frontend Developer
 - 🌎 **Location**: Hanoi, Vietnam
 - 🔗 **Portfolio**: [princecoder000.vercel.app](https://princecoder000.vercel.app)
 
@@ -90,7 +90,7 @@ I'm a passionate Full-Stack Developer specializing in modern web technologies, d
 
 ## 📫 Let's Connect!
 
-💼 [LinkedIn](https://www.linkedin.com/in/phuoc-nguyen-191004355/)  
+💼 [LinkedIn](https://www.linkedin.com/in/gia-phuoc-nguyen-31995534a/)  
 🌎 [Portfolio](https://princecoder000.vercel.app)  
 📍 Hanoi, Vietnam  
 📧 **Email**: [princecoder000@gmail.com](mailto:princecoder000@gmail.com)  
